@@ -2,7 +2,7 @@
 
 [![NFT COUNT](https://img.shields.io/badge/Collection_Size_🖼️-1337-green.svg)]()  [![MINT DATE](https://img.shields.io/badge/Mint_Date_📅-TBD-blue.svg)]()  [![Marketplace](https://img.shields.io/badge/Marketplace_🛍️-VeSea-blue.svg)](https://vesea.io)
 
-[![FUNDS](https://img.shields.io/badge/Grant_Funds_🏦-0_VET-lightgrey.svg)]() [![GitHub issues](https://img.shields.io/github/issues/aVETarNFTs/aVETarNFTs.svg)](https://GitHub.com/aVETarNFTs/aVETarNFTs/issues/)
+[![FUNDS](https://img.shields.io/badge/Grant_Funds_🏦-0_VET-lightgrey.svg)]() [![GitHub issues](https://img.shields.io/github/issues/aVETarNFTs/micro-grant-program.svg)](https://GitHub.com/aVETarNFTs/micro-grant-program/issues/)
 
 
 ## 🤔 Purpose
