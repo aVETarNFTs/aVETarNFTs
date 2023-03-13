@@ -19,7 +19,7 @@ The purpose of the aVETars NFT collection is to celebrate and support the VeChai
   - **May 2023**
     - Grant council will be formed based on trusted development-oriented community leaders
     - Council Size: **8**
-      -  Non-founder council members will obtain 4/12 mnemonics so that if members go inactive, the wallet can be addressed and recovered. 
+      -  Non-founder council members will obtain multisig wallet approval or 4/12 mnemonics so that if members go inactive, the wallet can be addressed and recovered. 
       - Council members will need to review the GitHub applications and approve the for the community vote (4+ approvals from council members make the application eligible)
       - Applications should be evaluated by:
         - Novelty
@@ -38,7 +38,7 @@ The purpose of the aVETars NFT collection is to celebrate and support the VeChai
 ## 📆 Roadmap and Timeline
 | Month | Actions |
 | ----------- | ----------- |
-| **April 2023** |<ul><li>- [ ] aVETar Mint</li><li>- [ ] Grant wallet funded</li><li>-[ ] Applications Open</li><ul>|
-| **May 2023** |<ul><li>- [ ] Establish a Grant Council of trusted community members</li><ul>|
+| **April/May 2023** |<ul><li>- [ ] aVETar Mint</li><li>- [ ] Grant wallet funded</li><li>-[ ] Applications Open</li><ul>|
+| **May/June 2023** |<ul><li>- [ ] Establish a Grant Council of trusted community members</li><ul>|
 | **November 2023** |<ul><li> - [ ] Council Application Approval</li><li> - [ ] Grant Votes Open</li><ul>|
 | **December 2023** |<ul><li> - [ ] Grant Payouts</li><ul>|
